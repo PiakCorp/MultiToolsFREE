@@ -1,0 +1,8 @@
+colored
+pystyle
+colorama
+discord.py==1.7.3
+asyncio
+datetime
+requests
+itertools
